@@ -1,9 +1,9 @@
 body {
-    background-color: #010165;
+    background-color: #ffe400;
     margin: 0px;
   }
   .head {
-    background-color: #00ffff;  
+    background-color: #ff652f;  
     text-align: center;
   }
   .title-row {
@@ -14,7 +14,7 @@ body {
   .instructions-title {
     display: inline;
     font-size: 18px;
-  color: #00ffff;
+  color: #272727;
   }
 
   .intructions-row {
@@ -26,13 +26,13 @@ body {
     padding-right: 25px;
     font-family: 'Work Sans';
     font-size: 36px;
-    color: #00ffff;
+    color: #272727;
   }
   .instructions-text {
     padding: 10px;
     font-family: 'Work Sans';
     font-size: 14px;
-    color: #ffffff
+    color: #272727;
   }
   .door-row {
     text-align: center;
