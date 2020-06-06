@@ -13,6 +13,8 @@ body {
   }
   .instructions-title {
     display: inline;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
     font-size: 18px;
   color: #272727;
   }
@@ -23,15 +25,17 @@ body {
     height: 210px;
   }
   .instructions-number {
-    padding-right: 25px;
-    font-family: 'Work Sans';
-    font-size: 36px;
-    color: #272727;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: #ffe400;
+    background-color: #eb6536;
   }
   .instructions-text {
     padding: 10px;
-    font-family: 'Work Sans';
-    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
     color: #272727;
   }
   .door-row {
@@ -45,12 +49,12 @@ body {
     margin: auto;
     width: 120px;
     height: 43px;
-    font-family: 'Work Sans';
+    font-family: 'Roboto Condensed', sans-serif;
     background-color: #eb6536;
     padding-top: 18px;
     font-size: 18px;
     text-align: center;
-    color: #010165;
+    color: #ffe400;
     margin-bottom: 21px;
     cursor: pointer;
   }
