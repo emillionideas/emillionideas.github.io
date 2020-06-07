@@ -58,3 +58,7 @@ body {
     margin-bottom: 21px;
     cursor: pointer;
   }
+#star {
+  size: 0.5px;
+  padding-top: 2px;
+}
