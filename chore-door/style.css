@@ -3,7 +3,7 @@ body {
     margin: 0px;
   }
   .head {
-    background-color: #ff652f;  
+    background-color: #fd4d00;  
     text-align: center;
   }
   .title-row {
@@ -16,7 +16,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     font-size: 20px;
-  color: #272727;
+  color: #fd4d00;
   }
 
   .intructions-row {
@@ -30,7 +30,7 @@ body {
     font-weight: bold;
     font-size: 26px;
     color: #ffe400;
-    background-color: #eb6536;
+    background-color: #fd4d00;
   }
   .instructions-text {
     padding: 10px;
@@ -50,7 +50,7 @@ body {
     width: 120px;
     height: 43px;
     font-family: 'Roboto Condensed', sans-serif;
-    background-color: #eb6536;
+    background-color: #fd4d00;
     padding-top: 18px;
     font-size: 18px;
     text-align: center;
