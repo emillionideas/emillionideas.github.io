@@ -29,7 +29,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    color: #ffe400;
+    color: #ffb800;
     background-color: #fd4d00;
   }
   .instructions-text {
@@ -54,7 +54,7 @@ body {
     padding-top: 18px;
     font-size: 18px;
     text-align: center;
-    color: #ffe400;
+    color: #ffb800;
     margin-bottom: 21px;
     cursor: pointer;
   }
