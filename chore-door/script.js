@@ -1,9 +1,9 @@
 let doorImage1 = document.getElementById('door1');
 let doorImage2 = document.getElementById('door2');
 let doorImage3 = document.getElementById('door3');
-let botDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/robot.svg";
-let beachDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/beach.svg";
-let spaceDoorPath = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/space.svg";
+let botDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
+let beachDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
+let spaceDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
 let closedDoorPath = "images/Opening-door-animation_v2.png";
 
 let currentlyPlaying = true;
