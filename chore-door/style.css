@@ -58,3 +58,6 @@ body {
     margin-bottom: 21px;
     cursor: pointer;
   }
+  #logo {
+    max-height: 80px;
+  }
