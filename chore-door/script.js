@@ -1,10 +1,10 @@
 let doorImage1 = document.getElementById('door1');
 let doorImage2 = document.getElementById('door2');
 let doorImage3 = document.getElementById('door3');
-let botDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
-let beachDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
-let spaceDoorPath = "images/Opening-door-animation_v2b-smaller.gif";
-let closedDoorPath = "images/Opening-door-animation_v2.png";
+let botDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2b-smaller.gif";
+let beachDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2d-withBG-smaller.gif";
+let spaceDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2d-withBG-smaller copy.gif";
+let closedDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2.png";
 
 let currentlyPlaying = true;
 
