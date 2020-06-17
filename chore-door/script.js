@@ -5,7 +5,7 @@ let botDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-an
 let beachDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2d-withBG-smaller copy.gif";
 let spaceDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2d-withBG-smaller.gif";
 let closedDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2.png";
-
+let girl = document.getElementById('girl');
 let currentlyPlaying = true;
 
 const startButton = document.getElementById('start');
@@ -88,11 +88,23 @@ openDoor2 = spaceDoorPath;
 }
 startRound();
 
+function on() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
+
 const playDoor = (door) => {
     numClosedDoors--;
   if(numClosedDoors === 0) {
     gameOver('win');
   } else if(isBot(door)) {
     gameOver();
+    on();
   }
+}
+girl.onclick = () => {
+  off();
 }
