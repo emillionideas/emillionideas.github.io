@@ -7,6 +7,7 @@ let spaceDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-
 let closedDoorPath = "https://emily8385.github.io/chore-door/images/Opening-door-animation_v2.png";
 let girl = document.getElementById('girl');
 let currentlyPlaying = true;
+let audio = new Audio ('audio/Funny-Laugh-C2-www.fesliyanstudios.com.mp3');
 
 const startButton = document.getElementById('start');
 // Buidling a loser
@@ -90,6 +91,7 @@ startRound();
 
 function on() {
   document.getElementById("overlay").style.display = "block";
+  audio.play();
 }
 
 function off() {
