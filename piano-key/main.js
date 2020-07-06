@@ -63,7 +63,7 @@ nextTwo.onclick = function() {
 // Write anonymous event handler property and function for the third progress button
 nextThree.onclick = function() {
   startOver.hidden = false;
-  nextThree.hidden = false;
+  nextThree.hidden = true;
   document.getElementById('word-one').innerHTML = 'HAP-';
   document.getElementById('word-two').innerHTML = 'PY';
   document.getElementById('word-three').innerHTML = 'BIRTH';
@@ -92,7 +92,7 @@ startOver.onclick = function() {
   document.getElementById('letter-note-four').innerHTML = 'G';
   document.getElementById('word-five').innerHTML = 'TO';
   document.getElementById('letter-note-five').innerHTML = 'C';
-  document.getElementById('word-six').innerHTML = 'YOU!';
+  document.getElementById('word-six').innerHTML = 'YOU';
   document.getElementById('letter-note-six').innerHTML = 'B';
   lastLyric.style.display = 'none';
 }
