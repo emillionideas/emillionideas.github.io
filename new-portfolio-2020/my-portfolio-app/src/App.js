@@ -1,10 +1,13 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Link} from "react-router-dom";
-import Container from "react-bootstrap/Container";
-import Navbar from "react-bootstrap/Navbar";
-import NavbarBrand from 'react-bootstrap/esm/NavbarBrand';
-import Nav from 'react-bootstrap/esm/Nav';
-import './App.css';
+import {BrowserRouter as Router, Route, Link} from "react-router-dom"
+import Container from "react-bootstrap/Container"
+import Navbar from "react-bootstrap/Navbar"
+import NavbarBrand from 'react-bootstrap/esm/NavbarBrand'
+import Nav from 'react-bootstrap/esm/Nav'
+import './App.css'
+
+import Footer from "./components/Footer"
+import HomePage from './pages/HomePage'
 
 
 class App extends React.Component {
@@ -47,6 +50,8 @@ class App extends React.Component {
               </Navbar.Collapse>
              
           </Navbar>
+    <Route path="/" exact render={() => <HomePage title={this.state.home.title} />}/>
+          <Footer />
         </Container>
       </Router>
     )
