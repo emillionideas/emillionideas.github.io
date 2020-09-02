@@ -8,6 +8,10 @@ import './App.css'
 
 import Footer from "./components/Footer"
 import HomePage from './pages/HomePage'
+import About from './pages/About'
+import GraphicDesign from './pages/GraphicDesign'
+import WebDevelopment from './pages/WebDevelopment'
+import Illustration from './pages/Illustration'
 
 
 class App extends React.Component {
@@ -50,7 +54,11 @@ class App extends React.Component {
               </Navbar.Collapse>
              
           </Navbar>
-    <Route path="/" exact render={() => <HomePage title={this.state.home.title} />}/>
+    <Route path="/" exact render={() => <HomePage title={this.state.home.title} subtitle={this.state.home.subtitle} text={this.state.home.text}/>}/>
+    <Route path="/graphic-design"  render={() => <GraphicDesign />}/>
+    <Route path="/web-development"  render={() => <WebDevelopment />}/>
+    <Route path="/illustration"  render={() => <Illustration />}/>
+    <Route path="/about"  render={() => <About title={this.state.about.title} />}/>
           <Footer />
         </Container>
       </Router>
