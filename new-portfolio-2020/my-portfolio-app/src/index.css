@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', sans-serif,
     monospace;
 }
+
+.e-card {
+  margin: 10px;
+  padding: 0px
+}
+
+.e-card-image {
+  width: 350px;
+  height: auto;
+}
+
+.e-card-info {
+  min-height: 100px;
+  margin-top: 10px
+}
+
+.e-card-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0px
+}
+
+.e-card-subtitle {
+  font-size: 16px;
+  margin: 0px
+}

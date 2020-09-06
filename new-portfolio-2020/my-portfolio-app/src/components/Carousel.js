@@ -12,7 +12,7 @@ class Carousel extends React.Component {
                 {
                     id: 0,
                     title: "Project 1",
-                    subtitle: "Lorem Ipsum for now",
+                    subtitle: "[Project Description]",
                     imgSrc: SampleCard,
                     alt: "project 1",
                     link: 'https://www.emilyphuctran.com/',
@@ -21,7 +21,7 @@ class Carousel extends React.Component {
                 {
                     id: 1,
                     title: "Project 2",
-                    subtitle: "Lorem Ipsum for now",
+                    subtitle: "[Project Description]",
                     imgSrc: SampleCard,
                     alt: "project 2",
                     link: 'https://www.emilyphuctran.com/',
@@ -30,7 +30,7 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: "Project 3",
-                    subtitle: "Lorem Ipsum for now",
+                    subtitle: "[Project Description]",
                     imgSrc: SampleCard,
                     alt: "project 3",
                     link: 'https://www.emilyphuctran.com/',
@@ -42,7 +42,8 @@ class Carousel extends React.Component {
         }
         this.handleCardClick = this.handleCardClick.bind(this)
     }
-    handleCardClick = (id, card) => {
+    handleCardClick = (id) => {
+        console.log(id)
         let items = [...this.state.items]
         items[id].selected = items[id].selected ? false : true
         items.forEach(item => {
@@ -51,16 +52,21 @@ class Carousel extends React.Component {
          }
         }
         )
-    }
-    makeItems = (items) => {
-        return items.map(item => {
-            return <Card item={item} key={item.id} onClick={(e => this.handleCardClick(item.id, e))}/>
+        this.setState({
+            items
         })
     }
+    
+    makeItems = (items) => {
+        return items.map(item => {
+            return <Card item={item} key={item.id} click={(e => this.handleCardClick(item.id, e))}/>
+        })
+    }
+    
     render() {
         return(
             <Container fluid={true}>
-                <Row className="justify-content-around">
+                <Row className="justify-content-center">
                  {this.makeItems(this.state.items)}
                 </Row>
             </Container>

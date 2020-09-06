@@ -45,6 +45,7 @@ class App extends React.Component {
              <Navbar.Toggle className="border-0" aria-controls="navbar-toggler" />
               <Navbar.Collapse id="navbar-toggler">
                <Nav className="ml-auto">
+               <Link className="nav-link" to="/">Home</Link>
                  <Link className="nav-link" to="/graphic-design">Graphic Design</Link>
                  <Link className="nav-link" to="/web-development">Web Development</Link>
                  <Link className="nav-link" to="/illustration">Illustration</Link>
