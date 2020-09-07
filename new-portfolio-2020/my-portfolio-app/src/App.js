@@ -32,7 +32,8 @@ class App extends React.Component {
         text: "I think James Victore said this."
       },
       about: {
-        title: "About me"
+        title: "Emily Tran, D.C. based graphic designer, illustrator and web designer.",
+        
       },
     }
   }
@@ -59,7 +60,7 @@ class App extends React.Component {
     <Route path="/graphic-design"  render={() => <GraphicDesign />}/>
     <Route path="/web-development"  render={() => <WebDevelopment />}/>
     <Route path="/illustration"  render={() => <Illustration />}/>
-    <Route path="/about"  render={() => <About title={this.state.about.title} />}/>
+    <Route path="/about"  render={() => <About title={this.state.about.title}/>}/>
           <Footer />
         </Container>
       </Router>
