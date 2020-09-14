@@ -7,7 +7,6 @@ import Nav from 'react-bootstrap/esm/Nav'
 import './App.css'
 
 import Footer from "./components/Footer"
-import HomePage from './pages/HomePage'
 import About from './pages/About'
 import GraphicDesign from './pages/GraphicDesign'
 import WebDevelopment from './pages/WebDevelopment'
@@ -46,9 +45,8 @@ class App extends React.Component {
              <Navbar.Toggle className="border-0" aria-controls="navbar-toggler" />
               <Navbar.Collapse id="navbar-toggler">
                <Nav className="ml-auto">
-               <Link className="nav-link" to="/">Home</Link>
-                 <Link className="nav-link" to="/graphic-design">Graphic Design</Link>
-                 <Link className="nav-link" to="/web-development">Web Development</Link>
+                 <Link className="nav-link" to="/">Web Development</Link>
+                 <Link className="nav-link" to="/graphic-design" >Graphic Design</Link>
                  <Link className="nav-link" to="/illustration">Illustration</Link>
                  <Link className="nav-link" to="/about">About</Link>
 
@@ -56,9 +54,8 @@ class App extends React.Component {
               </Navbar.Collapse>
              
           </Navbar>
-    <Route path="/" exact render={() => <HomePage title={this.state.home.title} subtitle={this.state.home.subtitle} text={this.state.home.text}/>}/>
+    <Route path="/" exact render={() => <WebDevelopment title={this.state.home.title} subtitle={this.state.home.subtitle} text={this.state.home.text}/>}/>
     <Route path="/graphic-design"  render={() => <GraphicDesign />}/>
-    <Route path="/web-development"  render={() => <WebDevelopment />}/>
     <Route path="/illustration"  render={() => <Illustration />}/>
     <Route path="/about"  render={() => <About title={this.state.about.title}/>}/>
           <Footer />
