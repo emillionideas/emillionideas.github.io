@@ -8,7 +8,9 @@ function CardInfo(props) {
        <animated.div className="" style={style}>
            <p className="e-card-title">{props.title}</p>
            <p className="e-card-subtitle">{props.subtitle}</p>
-           <a href={props.link} target="_blank" rel="noopener noreferrer">View</a>
+           <a href={props.linkProject} target="_blank" rel="noopener noreferrer">Project Demo</a>
+           <br />
+           <button style={{marginTop: '10px'}} type="button" className="btn btn-light" href={props.linkCode} target="_blank">View code</button>
        </animated.div>
    )
 }

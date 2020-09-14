@@ -3,6 +3,8 @@ import Card from "./Card"
 import Container from "react-bootstrap/Container"
 import Row from "react-bootstrap/Row"
 import SampleCard from "../assets/SampleCard.png"
+import OnceUponADoor from "../assets/OnceUponADoor.png"
+import PianoForDummies from "../assets/PianoForDummies.png"
 
 class Carousel extends React.Component {
     constructor(props) {
@@ -11,29 +13,32 @@ class Carousel extends React.Component {
             items: [
                 {
                     id: 0,
-                    title: "Project 1",
+                    title: "Once Upon A Door",
                     subtitle: "[Project Description]",
-                    imgSrc: SampleCard,
-                    alt: "project 1",
-                    link: 'https://www.emilyphuctran.com/',
+                    imgSrc: OnceUponADoor,
+                    alt: "once-upon-a-door",
+                    linkProject: 'https://emily8385.github.io/chore-door/',
+                    linkCode: 'https://www.emilyphuctran.com/',
                     selected: false
                 },
                 {
                     id: 1,
-                    title: "Project 2",
+                    title: "Piano For Dummies",
                     subtitle: "[Project Description]",
-                    imgSrc: SampleCard,
+                    imgSrc: PianoForDummies,
                     alt: "project 2",
-                    link: 'https://www.emilyphuctran.com/',
+                    linkProject: 'https://emily8385.github.io/piano-key/',
+                    linkCode: 'https://www.emilyphuctran.com/',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: "Project 3",
+                    title: "My First React Portfolio",
                     subtitle: "[Project Description]",
                     imgSrc: SampleCard,
                     alt: "project 3",
-                    link: 'https://www.emilyphuctran.com/',
+                    linkProject: 'https://www.emilyphuctran.com/',
+                    linkCode: 'https://www.emilyphuctran.com/',
                     selected: false
                 }
 
