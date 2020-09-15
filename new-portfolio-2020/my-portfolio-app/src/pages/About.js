@@ -20,6 +20,13 @@ function About(props) {
                             <div style={{paddingTop: '10px'}}>
                             My skills include web design, animation, brand identity, and editorial design but my strengths lie in my approach to in-depth research, analyzing different perspectives, converting complex ideas into visual imagery, and bringing unique ideas to the drawing table. Love HTML, CSS, Javascript and a full spoon of React.
                             </div>
+                            <div style={{paddingTop: '10px'}}>
+                            Interested in working together? Drop me a note:
+                            <br />
+                            Email: <b>ptran8385@gmail.com</b>
+                            <br />
+                            Mobile: <b>(402)890-7221</b>
+                            </div>
                         </div>
                     </div>
                 </Col>
