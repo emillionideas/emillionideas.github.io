@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto, Arial;
+    background-color: #f4ebd4;
+    color: #7e6a3f;
+    height: 1000px;
+}
+
+.heading-1 {
+    text-align: center;
+    margin-top: 130px;
+    font-family: Roboto, Arial;
+    font-size: 45px;
+    font-weight: 700;
+    color: #d24787;
+}
+
+.description {
+    text-align: center;
+    margin-top: 5px;
+    justify-content: center;
+    font-family: Roboto, Arial;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.section-title {
+    color: #d24787;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    margin: 0px 30px;
+}
