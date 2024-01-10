@@ -1,0 +1,327 @@
+cols:
+  - - letter: あ # col 1 - row 1
+      color: pink
+      iconSrc: "../assets/art/candy.svg"
+      strokeSrc: "../assets/art/a-letter.svg"
+      japanese: あめ
+      romaji: ame
+      english: candy
+    - letter: か # col 1 - row 2
+      color: purple
+      iconSrc: "../assets/art/crab.svg"
+      strokeSrc: "../assets/art/ka-letter.svg"
+      japanese: かに
+      romaji: kani
+      english: crab
+    - letter: さ #col 1 - row 3
+      color: green
+      iconSrc: "../assets/art/cherry-blossom.svg"
+      strokeSrc: "../assets/art/sa-letter.svg"
+      japanese: さくら
+      romaji: sakura
+      english: cherry blossom
+    - letter: た # col 1 - row 4
+      color: purple
+      iconSrc: "../assets/art/octopus.svg"
+      strokeSrc: "../assets/art/ta-letter.svg"
+      japanese: たこ
+      romaji: tako
+      english: octopus
+    - letter: な # col 1 - row 5
+      color: orange
+      iconSrc: "../assets/art/nabe.svg"
+      strokeSrc: "../assets/art/na-letter.svg"
+      japanese: なべ
+      romaji: nabe
+      english: Japanese hot pot   
+    - letter: は # col 1 - row 6
+      color: blue
+      iconSrc: "../assets/art/scissors.svg"
+      strokeSrc: "../assets/art/ha-letter.svg"
+      japanese: はさみ
+      romaji: hasami
+      english: scissors 
+    - letter: ま # col 1 - row 6
+      color: green 
+      iconSrc: "../assets/art/magic.svg"
+      strokeSrc: "../assets/art/ma-letter.svg"
+      japanese: まほう
+      romaji: mahō
+      english: magic
+    - letter: や # col 1 - row 7
+      color: orange
+      iconSrc: "../assets/art/veggie.svg"
+      strokeSrc: "../assets/art/ya-letter.svg"
+      japanese: "やさい"
+      romaji: yasai
+      english: 'vegetables'
+    - letter: ら # col 1 - row 8
+      color: blue
+      iconSrc: "../assets/art/egg-yolk.svg"
+      strokeSrc: "../assets/art/ra-letter.svg"
+      japanese: らんおう
+      romaji: ranō
+      english: egg yolk
+    - letter: わ # col 1 - row 9
+      color: green
+      iconSrc: "../assets/art/crocodile.svg"
+      strokeSrc: "../assets/art/wa-letter.svg"
+      japanese: わに
+      romaji: wani
+      english: crocodile
+  - - letter: い # column 2 starts on this line
+      color: purple
+      iconSrc: "../assets/art/dog.svg"
+      strokeSrc:  "../assets/art/i-letter.svg"
+      japanese: いぬ
+      romaji: inu
+      english: dog
+    - letter: き
+      color: orange
+      iconSrc: "../assets/art/kimono.svg"
+      strokeSrc: "../assets/art/ki-letter.svg"
+      japanese: きもの
+      romaji: kimono
+      english: kimono
+    - letter: し
+      color: pink
+      iconSrc: "../assets/art/shiitake.svg"
+      strokeSrc: "../assets/art/shi-letter.svg"
+      japanese: しいたけ
+      romaji: shiitake
+      english: shiitake mushroom
+    - letter: ち
+      color: blue
+      iconSrc: "../assets/art/map.svg"
+      strokeSrc: "../assets/art/chi-letter.svg"
+      japanese: ちず
+      romaji: chizu
+      english: map
+    - letter: に
+      color: pink
+      iconSrc: "../assets/art/meat.svg"
+      strokeSrc: "../assets/art/ni-letter.svg"
+      japanese: にく
+      romaji: niku
+      english: meat
+    - letter: ひ
+      color: green
+      iconSrc: "../assets/art/sheep.svg"
+      strokeSrc: "../assets/art/hi-letter.svg"
+      japanese: ひつじ
+      romaji: hitsuji
+      english: sheep
+    - letter: み
+      color: blue
+      iconSrc: "../assets/art/ear.svg"
+      strokeSrc: "../assets/art/mi-letter.svg"
+      japanese: みみ
+      romaji: mimi
+      english: ear
+    - disabled: true
+    - letter: り
+      color: pink
+      iconSrc: "../assets/art/sumo.svg"
+      strokeSrc: "../assets/art/ri-letter.svg"
+      japanese: りきし
+      romaji: rikishi
+      english: sumo wrestler
+    - disabled: true
+  - - letter: う # column 3 starts on this line
+      color: blue
+      iconSrc: "../assets/art/rabbit.svg"
+      strokeSrc: "../assets/art/u-letter.svg"
+      japanese: うさぎ
+      romaji: usagi
+      english: rabbit
+    - letter: く
+      color: pink
+      iconSrc: "../assets/art/bear.svg"
+      strokeSrc: "../assets/art/ku-letter.svg"
+      japanese: くま
+      romaji: kuma
+      english: bear
+    - letter: す
+      color: purple
+      iconSrc: "../assets/art/sparrow.svg"
+      strokeSrc: "../assets/art/su-letter.svg"
+      japanese: すずめ
+      romaji: suzume
+      english: sparrow
+    - letter: つ
+      color: orange
+      iconSrc: "../assets/art/nail.svg"
+      strokeSrc: "../assets/art/tsu-letter.svg"
+      japanese: つめ
+      romaji: tsume
+      english: nail
+    - letter: ぬ
+      color: green
+      iconSrc: "../assets/art/fabric.svg"
+      strokeSrc: "../assets/art/nu-letter.svg"
+      japanese: ぬの
+      romaji: nuno
+      english: fabric
+    - letter: ふ
+      color: purple
+      iconSrc: "../assets/art/puffer-fish.svg"
+      strokeSrc: "../assets/art/fu-letter.svg"
+      japanese: ふぐ
+      romaji: fugu
+      english: puffer fish
+    - letter: む
+      color: pink
+      iconSrc: "../assets/art/cavity.svg"
+      strokeSrc: "../assets/art/mu-letter.svg"
+      japanese: むしば
+      romaji: mushiba
+      english: cavity
+    - letter: ゆ
+      color: purple
+      iconSrc: "../assets/art/snow.svg"
+      strokeSrc: "../assets/art/yu-letter.svg"
+      japanese: ゆき
+      romaji: yuki
+      english: snow
+    - letter: る
+      color: green
+      iconSrc: "../assets/art/similar.svg"
+      strokeSrc: "../assets/art/ru-letter.svg"
+      japanese: るいじ
+      romaji: ruiji
+      english: similar
+    - letter: を
+      color: purple
+      iconSrc: "../assets/art/wave-hand.svg"
+      strokeSrc: "../assets/art/wo-letter.svg"
+      japanese: てをふる
+      romaji: tewofuru
+      english: to wave hands
+  - - letter: え # column 4 starts on this line
+      color: orange
+      iconSrc: "../assets/art/shrimp.svg"
+      strokeSrc: "../assets/art/e-letter.svg"
+      japanese: えび
+      romaji: ebi
+      english: shrimp
+    - letter: け
+      color: green
+      iconSrc: "../assets/art/yarn.svg"
+      strokeSrc: "../assets/art/ke-letter.svg"
+      japanese: けいと
+      romaji: keito
+      english: yarn
+    - letter: せ
+      color: blue
+      iconSrc: "../assets/art/cicada.svg"
+      strokeSrc: "../assets/art/se-letter.svg"
+      japanese: せみ
+      romaji: semi
+      english: cicada
+    - letter: て
+      color: pink
+      iconSrc: "../assets/art/temple.svg"
+      strokeSrc: "../assets/art/te-letter.svg"
+      japanese: てり
+      romaji: teri
+      english: temple
+    - letter: ね
+      color: blue
+      iconSrc: "../assets/art/cat.svg"
+      strokeSrc: "../assets/art/ne-letter.svg"
+      japanese: ねこ
+      romaji: neko
+      english: cat
+    - letter: へ
+      color: orange
+      iconSrc: "../assets/art/weapon.svg"
+      strokeSrc: "../assets/art/he-letter.svg"
+      japanese: へいき
+      romaji: heiki
+      english: weapon
+    - letter: め
+      color: orange
+      iconSrc: "../assets/art/eyes.svg"
+      strokeSrc: "../assets/art/me-letter.svg"
+      japanese: め
+      romaji: me
+      english: eye
+    - disabled: true
+    - letter: れ
+      color: purple
+      iconSrc: "../assets/art/lotus-root.svg"
+      strokeSrc: "../assets/art/re-letter.svg"
+      japanese: れんこん
+      romaji: renkon
+      english: lotus root
+    - disabled: true
+  - - letter: お # column 5 starts on this line
+      color: green
+      iconSrc: "../assets/art/lucky-charm.svg"
+      strokeSrc: "../assets/art/o-letter.svg"
+      japanese: おまもり
+      romaji: omamori
+      english: lucky charm
+    - letter: こ
+      color: blue
+      iconSrc: "../assets/art/carp-streamer.svg"
+      strokeSrc: "../assets/art/ko-letter.svg"
+      japanese: こいのぼり
+      romaji: koinobori
+      english: carp streamer
+    - letter: そ
+      color: orange
+      iconSrc: "../assets/art/vacuum-cleaner.svg"
+      strokeSrc: "../assets/art/so-letter.svg"
+      japanese: そうじき
+      romaji: sōjiki
+      english: vacuum cleaner
+    - letter: と
+      color: green
+      iconSrc: "../assets/art/tofu.svg"
+      strokeSrc: "../assets/art/to-letter.svg"
+      japanese: とうふ
+      romaji: tōfu
+      english: tofu
+    - letter: の
+      color: purple
+      iconSrc: "../assets/art/norimaki.svg"
+      strokeSrc: "../assets/art/no-letter.svg"
+      japanese: のりまき
+      romaji: norimaki
+      english: rolled sushi
+    - letter: ほ
+      color: pink
+      iconSrc: "../assets/art/star.svg"
+      strokeSrc: "../assets/art/ho-letter.svg"
+      japanese: ほし
+      romaji: hoshi
+      english: star
+    - letter: も
+      color: purple
+      iconSrc: "../assets/art/peach.svg"
+      strokeSrc: "../assets/art/mo-letter.svg"
+      japanese: もも
+      romaji: momo
+      english: peach
+    - letter: よ
+      color: pink
+      iconSrc: "../assets/art/night.svg"
+      strokeSrc: "../assets/art/yo-letter.svg"
+      japanese: よる
+      romaji: yoru
+      english: night
+    - letter: ろ
+      color: orange
+      iconSrc: "../assets/art/june.svg"
+      strokeSrc: "../assets/art/ro-letter.svg"
+      japanese: ろくがつ
+      romaji: rokugatsu
+      english: June
+    - letter: ん # col 1 - row 10
+      color: pink
+      iconSrc: "../assets/art/zen.svg"
+      strokeSrc: "../assets/art/n-letter.svg"
+      japanese: ぜん
+      romaji: zen
+      english: Zen

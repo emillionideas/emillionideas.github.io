@@ -4,5 +4,7 @@
 
 layout: about
 title_jp: Hello
+title: About
+permalink: /about/
 information_active: true
 ---

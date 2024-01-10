@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    {% include preamble.html title=page.title %}
+    <body>
+        <!--Navigation-->
+        {% include site_header.html %}
+        <!-- Alphabet Start -->
+        <div class="main-content">
+            <div class="page-title">
+                <h1>{{ page.title }}</h1>
+                <h2>{{ page.description }}</h2>
+            </div>
+        <!--Content-->
+            <div class="container">
+
+                <div class="about-tab">
+                
+                    <div class="top-section">
+                        <div class="top-title">{{ page.file_name }}</div>
+                    </div>
+                    <div class="mid-section">
+                        <div class="url">https://www.emillionideas.com/{{ page.file_name }}/</div>
+                    </div>
+                    <div class="bottom-section">
+                        <div class="bottom-content">
+                            <div class="content-para-2">{{ page.content }}</div>
+                        </div>
+                    </div>
+                
+                </div>
+            </div>
+        <!--End of Content-->
+        </div>
+        {% include footer.html %}
+    </body>
+</html>

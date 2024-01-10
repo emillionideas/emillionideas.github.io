@@ -1,0 +1,15 @@
+<header class="header">
+    <div class="grid">
+        <div class="left-section">
+            <a href="{% link index.markdown %}"><img class="site-logo" src="/assets/site-logo.png"></a>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="tabs">
+            {% include tab.html active=page.hiragana_active link="/hiragana" label="Hiragana" %}
+            {% include tab.html active=page.katakana_active link="/katakana" label="Katakana" %}
+            {% include tab.html active=page.blog_active link="/blog" label="Blog" %}
+            {% include tab.html active=page.information_active link="/about" label="About" %}
+        </div>
+    </div>
+</header>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    {% include preamble.html title=page.title %}
+    <body>
+        <!--Navigation-->
+        {% include site_header.html %}
+        <!-- Alphabet Start -->
+        <div class="main-content">
+            <div class="page-title">
+                <h1>{{ page.title_jp }}</h1>
+                <h2>{{ page.title }}</h2>
+                <div style="display: flex; justify-content: center;">{{ page.status }}</div>
+            </div>
+            {% assign tableData = site.data.alphabets[page.alphabet] %}
+            <div class="table-1">
+                {% for cols in tableData.cols %}
+                <section>
+                    {% for row in cols %}
+                        {% if row.disabled %}
+                            {% include disabled_flashcard.html %}
+                        {% else %}
+                            {% include flashcard.html letter=row.letter iconSrc=row.iconSrc strokeSrc=row.strokeSrc japanese=row.japanese romaji=row.romaji english=row.english color=row.color %}
+                        {% endif %}
+                    {% endfor %}
+                </section>
+                {% endfor %}
+                </div>
+
+            <div class="table-2">
+                    {% for cols in tableData.cols %}
+                    <section>
+                        {% for row in cols %}
+                            {% if row.disabled %}
+                                {% include disabled_flashcard.html %}
+                            {% else %}
+                                {% include flashcard.html letter=row.letter iconSrc=row.iconSrc strokeSrc=row.strokeSrc japanese=row.japanese romaji=row.romaji english=row.english color=row.color %}
+                            {% endif %}
+                        {% endfor %}
+                    </section>
+                    {% endfor %}
+                    </div>
+                
+                    <!--End credit-->
+                {% include end-note.html %}
+        </div>
+        {% include footer.html %}
+    </body>
+</html>

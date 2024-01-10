@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    {% include preamble.html title=page.title %}
+    <body>
+        <!-- Navigation -->
+        {% include site_header.html %}
+        <div class="main-content">
+
+<!--Information-->
+            <div class="information">
+    <!--About-->
+                <div class="about">
+                    <div class="about-tab">
+    
+                        <div class="top-section">
+                            <div class="top-title">about-me.md</div>
+                        </div>
+                        <div class="mid-section">
+                            <div class="url">https://www.emillionideas.com/about-me.md/</div>
+                        </div>
+                        <div class="bottom-section">
+                            <div class="bottom-content">
+                                <div class="bottom-content-heading">Hi, I’m Emily Tran!</div>
+                                <div class="content-para-1">(aka. E.T. coincidence? I hope not :) I am a Product Designer (UX/UI) who loves learning new languages, creating enjoyable experiences, and exploring the digital world.</div>
+                                <div class="content-para-2">Recently, I find pleasure in learning more about HTML and CSS. This enables me to transform my design concepts into functional websites.</div>
+                            </div>
+    
+                            <div class="avatar-box">
+    
+                                <div class="avatar-top">
+                                    <div class-="section-name">avatar.svg</div>
+                                    <div class="section-control">
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                    </div>
+                                </div>
+                                <div class="avatar-mid">
+                                    <div class="profile-photo">
+                                        <img src="../assets/me.svg">
+                                    </div>
+                                    
+                                </div>
+                                <div class="avatar-bottom">
+                                    <div class="email-icon">
+                                        <i style="font-size: 1.5rem;" class="fa-regular fa-envelope"></i>
+                                    </div>
+                                    <div class="email"><a href="mailto:{{ site.email }}" class="mail-to">{{ site.email }}</a></div>
+                                </div>
+    
+                        </div>
+               
+                    </div>
+                    </div>
+            
+                </div>
+    <!--Extra Info-->
+                <div class="about">
+                    <div class="extra-info">
+
+                        <div class="block-1">
+                            <div class="block-top">
+                                <div class-="section-name">current-project.md</div>
+                                <div class="section-control">
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                </div>
+                            </div>
+                            <div class="block-mid">
+                                I'm currently working on the <b>Pixel Japanese Alphabet</b> project. Progress: 50%.
+                            </div>
+                            <div class="block-bottom">
+                                <div class="button">View Hiragana</div>
+                            </div>
+                        </div>
+                        <div class="block-2">
+                            <div class="block-top">
+                                <div class-="section-name">social-media.md</div>
+                                <div class="section-control">
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                        <div class="icon"></div>
+                                </div>
+                            </div>
+                            <div class="block-mid">
+                                Follow me at <b>@emillionideas</b> for more updates
+                            </div>
+                            <div class="block-bottom">
+                                <div class="sm-icon">
+                                    <i class="fa-brands fa-instagram"></i>
+                                </div>
+                                <div class="sm-icon">
+                                    <i class="fa-brands fa-x-twitter"></i>
+                                </div>
+                                <div class="sm-icon">
+                                    <i class="fa-brands fa-dribbble"></i>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+            
+                </div>
+    <!--Blog-->
+                <div class="about">
+                    <div class="blog-tab">  
+                        <div class="bottom-section">
+                            <div class="bottom-content">
+                                <div class="content-para-2">If you're interested in working together or just want to say hello, connect with me via linkedin or send me a message via email.</div>
+                                <!--<div class="button">Read article</div>-->
+               
+                    </div>
+                    </div>
+            
+                </div>
+            </div>
+            
+        </div>
+        {% include footer.html %}
+    </body>
+</html>
