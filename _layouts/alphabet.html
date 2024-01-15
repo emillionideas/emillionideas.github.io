@@ -11,7 +11,7 @@
                 <h2>{{ page.title }}</h2>
                 <div style="display: flex; justify-content: center;">{{ page.status }}</div>
             </div>
-            {% assign tableData = site.data.alphabets[page.alphabet] %}
+            {% assign tableData = site.data.alphabets.large[page.alphabet] %}
             <div class="table-1">
                 {% for cols in tableData.cols %}
                 <section>
@@ -24,24 +24,23 @@
                     {% endfor %}
                 </section>
                 {% endfor %}
-                </div>
+            </div>
 
+            {% assign tableData = site.data.alphabets.small[page.alphabet] %}
             <div class="table-2">
-                    {% for cols in tableData.cols %}
-                    <section>
-                        {% for row in cols %}
-                            {% if row.disabled %}
-                                {% include disabled_flashcard.html %}
-                            {% else %}
-                                {% include flashcard.html letter=row.letter iconSrc=row.iconSrc strokeSrc=row.strokeSrc japanese=row.japanese romaji=row.romaji english=row.english color=row.color %}
-                            {% endif %}
-                        {% endfor %}
-                    </section>
-                    {% endfor %}
-                    </div>
+                {% for card in tableData %}
+                <section>
+                    {% if card.disabled %}
+                        {% include disabled_flashcard.html %}
+                    {% else %}
+                        {% include flashcard.html letter=card.letter iconSrc=card.iconSrc strokeSrc=card.strokeSrc japanese=card.japanese romaji=card.romaji english=card.english color=card.color %}
+                    {% endif %}
+                </section>
+                {% endfor %}
+            </div>
                 
-                    <!--End credit-->
-                {% include end-note.html %}
+            <!--End credit-->
+            {% include end-note.html %}
         </div>
         {% include footer.html %}
     </body>

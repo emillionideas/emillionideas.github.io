@@ -8,14 +8,8 @@
         <div class="main-content">
             <div class="page-title">
                 <h1>My Blog</h1>
-                <!-- <h2>I post stories here biweekly</h2> -->
             </div>
         <!--Content-->
-
-        <!--Section 2-->
-       <!--Paste here-->
-        
-        <!--Section 1-->
         <div class="blog-container">
             <div class="about-tab">
             
@@ -23,19 +17,15 @@
                     <div class="top-title">blog.md</div>
                 </div>
                 <div class="mid-section">
-                    <div class="url">https://www.emillionideas.com/2024/January/</div>
+                    <div class="url">https://www.emillionideas.com/blog.md/</div>
                 </div>
-                <!--Post 1-->
                 <div class="post-section">
                     {% for post in site.posts %}
                     <div>{% include post_summary.html title=post.title date=post.date-2 excerpt=post.excerpt thumbnail=post.thumbnail %}</div>
                     {% endfor %}
                 </div>
-                <!--End of Post 0-->
-                
                 </div> 
         </div>
-        
         <!--End of Content-->
         {% include footer.html %}
     </body>

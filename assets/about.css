@@ -257,28 +257,40 @@
     background-image:
       repeating-linear-gradient(#914938 0 0.6px, transparent 0.6px 100%),
       repeating-linear-gradient(90deg, #914938 0 0.6px, transparent 0.6px 100%);
-      background-size: 1.4rem 1.4rem;
+      background-size: 1.5rem 1.5rem;
+}
+.icon-row {
+   display: flex;
+   flex-direction: row;
+   margin-top: 1.12rem;
+   margin-bottom: 1.12rem;
+   gap: 1rem;
+}
+.icon-row a {
+   text-decoration: none;
 }
 .sm-icon {
-    display: flex;
-    border-radius:10px;
-    border: solid 1px #913038;
+   display: flex;
+   border-radius: 10px;
+   border: solid 1px #913038;
    background-color: #F4EBD4;
-   padding: 0.5rem;
    justify-content: center;
    align-items: center;
-   margin-top: 1rem;
-   margin-bottom: 1rem;
+   padding: 0.6rem;
+   width: 3.9rem;
+   height: 3.9rem;
 }
-.sm-icon img {
-    width: 2.5rem;
-    height: 2.5rem;
-    object-fit: contain;
+.sm-icon i {
+    font-size: 2.5rem;
+}
+.button-bg {
+   margin-top: 1.8rem;
+   margin-bottom: 1.8rem;
 }
 .button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #F4EBD4;
   width: auto;
   height: auto;
@@ -291,10 +303,10 @@
   font-size-adjust: auto;
   text-align: center;
   line-height: 1.2em;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  
   padding: 0.5rem 1.5rem;
   cursor: pointer;
+  text-decoration: none;
 }
 .button:hover {
     box-shadow:  3px 4px #913038;

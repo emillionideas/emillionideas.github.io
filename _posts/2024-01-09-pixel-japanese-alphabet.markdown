@@ -3,20 +3,20 @@ layout: post
 blog_active: true
 title: 'Pixel Japanese Alphabets'
 description:  A Kana picturebook
-file_name: pixel-japanese-alphabet.doc
+file_name: pixel-japanese-alphabets.doc
 date-2: 'January 09, 2024'
 excerpt: "In this post, I'm excited to share with you the behind-the-scenes of the Pixel Japanese Alphabets project. This is a picturebook that helps learing Hiragana & Katakana fun and easy."
 thumbnail: post1_thumbnail.png
 
 ---
-Welcome to my **Pixel Japanese Alphabets**, the most recent side project that I’ve been working on. As a Product Designer (UI/UX) who loves to create enjoyable and engaging experiences, I want to create a platform that makes learning Japanese alphabets fun and easy. This project not only gives me the opportunity to sharpen my UX skills but more importantly, to wear the hat of a web developer for the first time.
+Welcome to my **Pixel Japanese Alphabets**, the most recent side project that I’ve been working on. As a Product Designer (UI/UX) who loves to create enjoyable and engaging experiences, I want to build a platform that makes learning Japanese alphabets fun and easy. This project not only gives me the opportunity to sharpen my UX skills but more importantly, to wear the hat of a web developer for the first time.
 
-If you are interested in either learning Japanese or pixel art, this is the right place for you. Check out the project [here](https://www.emillionideas.com/) and come back to this post if you’re curious about the behind-the-scenes of this project.
+If you are interested in either learning Japanese or pixel art, this is the right place for you. Check out the project and come back to this post if you’re curious about the behind-the-scenes of this project.
 
 ### Overview
 Back in May, I started my first Japanese class and quickly fell in love with the language. Both Vietnamese (my mother tongue) and English (my second language) have their alphabets belonging to the Latin family. Therefore, learning how to write Japanese characters is something new and interesting to me.
 
-Modern Japanese is written in a mixture of three basic writing systems: Hiragana and Katakana – the two phonetic alphabets, as well as Kanji – Chinese ideographic symbols. In the Pixel Japanese Alphabet project, my emphasis is on the kana (Hiragana & Katakana) systems. They have the same sounds, but the forms are different. Another difference is Katakana is mostly used for writing foreign words. Can you guess the meaning of チーズ (Chīzu)? Hint: this is a food item that belongs to the dairy group.
+Modern Japanese is written in a mixture of three basic writing systems: Hiragana and Katakana – the two phonetic alphabets, as well as Kanji – Chinese ideographic symbols. In the Pixel Japanese Alphabets project, my emphasis is on the kana (Hiragana & Katakana) systems. They have the same sounds, but the forms are different. Another difference is Katakana is mostly used for writing foreign words. Can you guess the meaning of チーズ (Chīzu)? Hint: this is a food item that belongs to the dairy group.
 
 During the scope of the project, even though I encountered numerous challenges while working on the frontend development (there were some that left me sleepless a few nights), I gained a better understanding of what’s implementable and felt more confident in designer-developer collaboration. Next, I am excited to share with you my experience of wearing multiple hats, spanning UX, visual design and web development.
 
@@ -52,7 +52,7 @@ When I was learning English growing up, my dad who was also my first teacher, no
 
 > "Instead of my explaining the meaning of the word, which you may forget the next day, I can show you a picture of it, and the word will become friends with your memory."
 
-This personal experience brings me to the thought of “Why not learn languages like a child?”. In the colorful world of Pixel Japanese Alphabet, I hope that no matter what your age, you’ll find joy in visual learning.
+This personal experience brings me to the thought of “Why not learn languages like a child?”. In the colorful world of Pixel Japanese Alphabets, I hope that no matter what your age, you’ll find joy in visual learning.
 
 #### 4. Vocabulary
 Finally, each word that goes with the corresponding character will be shown in Japanese, Romaji and English. Romaji is simply the Latin script used to help non-Japanese speakers pronounce the language. When you see ‘Tōkyō’ instead of ‘とうきょう’, you’re looking at Romaji.
@@ -101,4 +101,4 @@ To minimize repetitive and lengthy html, I aimed to construct each alphabet from
 ***
 
 ### What's next?
-From here, my next goal is to continue working on the next alphabet-Katakana, along with implementing Javascript to enrich the experience with animation. All feedback is greatly appreciated to help improve this project. Feel free to contact me via email or social media. Until next time!
+From here, my next goal is to continue working on the next alphabet-Katakana, along with implementing Javascript to enrich the experience with animation. All feedback is greatly appreciated to help improve this project. Until next time!

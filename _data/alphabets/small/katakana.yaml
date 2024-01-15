@@ -1,0 +1,322 @@
+- letter: ア # a, i, u, e, o
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: イ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ウ 
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: エ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: オ 
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: カ # ka, ki, ku, ke, ko
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: キ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ク
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ケ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: コ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: サ # sa, shi, su, se, so
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: シ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ス
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: セ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ソ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: タ # ta, chi, tsu, te, to
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: チ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ツ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: テ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ト
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ナ # na, ni, nu, ne, no
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ニ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ヌ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'  
+- letter: ネ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ノ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!' 
+- letter: ハ # ha, hi, fu, he, ho
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!' 
+- letter: ヒ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: フ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ヘ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ホ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: マ # ma, mi, mu, me, mo
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ミ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ム
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: メ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: モ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ヤ # ya, yu, yo
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ユ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ヨ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ラ # ra, ri, ru, re, ro
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: リ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ル
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: レ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ロ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ワ # wa, wo, n
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ヲ
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'
+- letter: ン
+  color: yellow
+  iconSrc: "../assets/art/unknown.svg"
+  strokeSrc: "../assets/art/unknown.svg"
+  japanese: 'カミングスーン'
+  romaji: 'kamingusūn'
+  english: 'Coming soon!'

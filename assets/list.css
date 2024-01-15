@@ -193,7 +193,7 @@ summary::marker {
 .letter-orange {box-shadow:  4px 5px #903d26; background-color: #B83F1E; }
 .letter-green { box-shadow:  4px 5px #0a4d4f; background-color: #127275; }
 
-@media (max-width: 1113px) {
+@media (max-width: 1100px) {
   .table-1 {
     display: none;
   }
@@ -253,7 +253,7 @@ summary::marker {
   display: none;
 }
 }
-@media (min-width: 1114px) {
+@media (min-width: 1101px) {
   .table-2 {
     display: none;
   }

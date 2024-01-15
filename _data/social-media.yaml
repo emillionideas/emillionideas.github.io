@@ -1,0 +1,11 @@
+- title: 'Instagram'
+  href: 'https://www.instagram.com/emillionideas/'
+  fa-icon: 'fa-brands fa-instagram'
+
+- title: 'Twitter'
+  href: 'https://twitter.com/emillionideas'
+  fa-icon: 'fa-brands fa-x-twitter'
+
+- title: 'Dribbble'
+  href: 'https://dribbble.com/emillionideas'
+  fa-icon: 'fa-brands fa-dribbble'

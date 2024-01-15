@@ -2,7 +2,7 @@ body {
     background-color: #EECC11;
     font-family: 'Saira Semi Condensed', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #913038;
-    overflow: scroll;
+    overflow-x: auto;
 }
   
   h1 {
@@ -77,7 +77,7 @@ footer {
     justify-content: space-between;
     border-top: 1px solid #914938;
     margin-top: 0;
-    padding: 1.5rem 2rem;
+    padding: 2rem 3rem;
 }
 .footer-info {
     font-size: 1.1rem;
@@ -87,9 +87,14 @@ footer {
     align-items: center;
     text-align: center;
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: auto auto;
     gap: 2.8rem;
-    cursor: pointer;
+}
+.footer-sm {
+    display: flex;
+    flex-direction: row;
+    gap: 2.8rem;
+    font-size: 0.5rem;
 }
 .mail-to {
     text-decoration: none;
@@ -141,7 +146,7 @@ hr {
 }
 
 i {
-    font-size: 2.5rem;
+    font-size: 1.2rem;
     object-fit: contain;
     text-align: center;
 }
