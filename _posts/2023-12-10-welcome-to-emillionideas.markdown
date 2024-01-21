@@ -3,7 +3,7 @@ layout: post
 blog_active: true
 title: 'Welcome to Emillionideas'
 description:  A letter to my visitors
-file_name: welcome-to-emillionideas.doc
+file_name: 2023/12/10/welcome-to-emillionideas.html
 date-2: 'December 10, 2023'
 excerpt: "Hello there! My name is Emily Tran (aka. E.T. coincidence? I hope not.) Thank you for visiting emillionideas.com - my newest website."
 thumbnail: post0_thumbnail.svg

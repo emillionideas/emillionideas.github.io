@@ -3,7 +3,7 @@ layout: post
 blog_active: true
 title: 'Pixel Japanese Alphabets'
 description:  A Kana picturebook
-file_name: pixel-japanese-alphabets.doc
+file_name: 2024/01/09/pixel-japanese-alphabet.html
 date-2: 'January 09, 2024'
 excerpt: "In this post, I'm excited to share with you the behind-the-scenes of the Pixel Japanese Alphabets project. This is a picturebook that helps learing Hiragana & Katakana fun and easy."
 thumbnail: post1_thumbnail.png

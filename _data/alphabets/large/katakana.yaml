@@ -1,11 +1,11 @@
 cols:
   - - letter: ア # col 1 - row 1
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: purple
+      iconSrc: "../assets/art/ice-cream.svg"
+      strokeSrc: "../assets/art/kata-a.svg"
+      japanese: 'アイスクリーム'
+      romaji: 'aisukurīmu'
+      english: 'ice cream'
     - letter: カ # col 1 - row 2
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -70,12 +70,12 @@ cols:
       romaji: 'kamingusūn'
       english: 'Coming soon!'
   - - letter: イ # column 2 starts on this line
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc:  "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: pink
+      iconSrc: "../assets/art/ink.svg"
+      strokeSrc:  "../assets/art/kata-i.svg"
+      japanese: 'インク'
+      romaji: 'inku'
+      english: 'ink'
     - letter: キ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -128,12 +128,12 @@ cols:
       english: 'Coming soon!'
     - disabled: true
   - - letter: ウ # column 3 starts on this line
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: green
+      iconSrc: "../assets/art/virus.svg"
+      strokeSrc: "../assets/art/kata-u.svg"
+      japanese: 'ウイルス'
+      romaji: 'uirusu'
+      english: 'virus'
     - letter: ク
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -198,12 +198,12 @@ cols:
       romaji: 'kamingusūn'
       english: 'Coming soon!'
   - - letter: エ # column 4 starts on this line
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: blue
+      iconSrc: "../assets/art/air-conditioner.svg"
+      strokeSrc: "../assets/art/kata-e.svg"
+      japanese: 'エアコン'
+      romaji: 'eakon'
+      english: 'air conditioner'
     - letter: ケ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -256,12 +256,12 @@ cols:
       english: 'Coming soon!'
     - disabled: true
   - - letter: オ # column 5 starts on this line
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: orange
+      iconSrc: "../assets/art/omurice.svg"
+      strokeSrc: "../assets/art/kata-o.svg"
+      japanese: 'オムライス'
+      romaji: 'omuraisu'
+      english: 'omurice (Japanese omelette rice)'
     - letter: コ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
