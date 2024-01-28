@@ -34,40 +34,40 @@
   romaji: 'omuraisu'
   english: 'omurice (Japanese omelette rice)'
 - letter: カ # ka, ki, ku, ke, ko
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: blue
+  iconSrc: "../assets/art/camera.svg"
+  strokeSrc: "../assets/art/kata-ka.svg"
+  japanese: 'カメラ'
+  romaji: 'kamera'
+  english: 'camera'
 - letter: キ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: orange
+  iconSrc: "../assets/art/giraffe.svg"
+  strokeSrc: "../assets/art/kata-ki.svg"
+  japanese: 'キリン'
+  romaji: 'kirin'
+  english: 'giraffe'
 - letter: ク
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: purple
+  iconSrc: "../assets/art/crayon.svg"
+  strokeSrc: "../assets/art/kata-ku.svg"
+  japanese: 'クレヨン'
+  romaji: 'kureyon'
+  english: 'crayon'
 - letter: ケ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: pink
+  iconSrc: "../assets/art/cake.svg"
+  strokeSrc: "../assets/art/kata-ke.svg"
+  japanese: 'ケーキ'
+  romaji: 'kēki'
+  english: 'cake'
 - letter: コ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: green
+  iconSrc: "../assets/art/convenience-store.svg"
+  strokeSrc: "../assets/art/kata-ko.svg"
+  japanese: 'コンビニ'
+  romaji: 'konbini'
+  english: 'convenience store'
 - letter: サ # sa, shi, su, se, so
   color: yellow
   iconSrc: "../assets/art/unknown.svg"

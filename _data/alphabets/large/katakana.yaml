@@ -7,12 +7,12 @@ cols:
       romaji: 'aisukurīmu'
       english: 'ice cream'
     - letter: カ # col 1 - row 2
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: blue
+      iconSrc: "../assets/art/camera.svg"
+      strokeSrc: "../assets/art/kata-ka.svg"
+      japanese: 'カメラ'
+      romaji: 'kamera'
+      english: 'camera'
     - letter: サ #col 1 - row 3
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -77,12 +77,12 @@ cols:
       romaji: 'inku'
       english: 'ink'
     - letter: キ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: orange
+      iconSrc: "../assets/art/giraffe.svg"
+      strokeSrc: "../assets/art/kata-ki.svg"
+      japanese: 'キリン'
+      romaji: 'kirin'
+      english: 'giraffe'
     - letter: シ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -135,12 +135,12 @@ cols:
       romaji: 'uirusu'
       english: 'virus'
     - letter: ク
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: purple
+      iconSrc: "../assets/art/crayon.svg"
+      strokeSrc: "../assets/art/kata-ku.svg"
+      japanese: 'クレヨン'
+      romaji: 'kureyon'
+      english: 'crayon'
     - letter: ス
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -205,12 +205,12 @@ cols:
       romaji: 'eakon'
       english: 'air conditioner'
     - letter: ケ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: pink
+      iconSrc: "../assets/art/cake.svg"
+      strokeSrc: "../assets/art/kata-ke.svg"
+      japanese: 'ケーキ'
+      romaji: 'kēki'
+      english: 'cake'
     - letter: セ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -263,12 +263,12 @@ cols:
       romaji: 'omuraisu'
       english: 'omurice (Japanese omelette rice)'
     - letter: コ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: green
+      iconSrc: "../assets/art/convenience-store.svg"
+      strokeSrc: "../assets/art/kata-ko.svg"
+      japanese: 'コンビニ'
+      romaji: 'konbini'
+      english: 'convenience store'
     - letter: ソ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
