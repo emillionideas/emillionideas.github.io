@@ -69,40 +69,40 @@
   romaji: 'konbini'
   english: 'convenience store'
 - letter: サ # sa, shi, su, se, so
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: green
+  iconSrc: "../assets/art/soccer.svg"
+  strokeSrc: "../assets/art/kata-sa.svg"
+  japanese: 'サッカー'
+  romaji: 'sakkā'
+  english: 'soccer'
 - letter: シ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: pink
+  iconSrc: "../assets/art/sticker.svg"
+  strokeSrc: "../assets/art/kata-shi.svg"
+  japanese: 'シール'
+  romaji: 'shīru'
+  english: 'sticker'
 - letter: ス
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: blue
+  iconSrc: "../assets/art/smartphone.svg"
+  strokeSrc: "../assets/art/kata-su.svg"
+  japanese: 'スマホ'
+  romaji: 'sumaho'
+  english: 'smartphone'
 - letter: セ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: orange
+  iconSrc: "../assets/art/sweater.svg"
+  strokeSrc: "../assets/art/kata-se.svg"
+  japanese: 'セーター'
+  romaji: 'sētā'
+  english: 'sweater'
 - letter: ソ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: purple
+  iconSrc: "../assets/art/sofa.svg"
+  strokeSrc: "../assets/art/kata-so.svg"
+  japanese: 'ソファ'
+  romaji: 'sofa'
+  english: 'sofa'
 - letter: タ # ta, chi, tsu, te, to
   color: yellow
   iconSrc: "../assets/art/unknown.svg"

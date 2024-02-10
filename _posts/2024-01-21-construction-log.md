@@ -11,6 +11,10 @@ thumbnail: post2_thumbnail.svg
 ---
 After Emillionideas.com was officially launched on January 09, 2024, I created this <b>Construction Log</b> on January 21 to keep track of all the worksite progress.
 
+### February 10, 2024
+***
+- Katakana: added the contents for 5 characters サ(sa), シ(shi), ス(su), セ(se), ソ(so).
+
 ### January 28, 2024
 ***
 - Added a favicon to the website
