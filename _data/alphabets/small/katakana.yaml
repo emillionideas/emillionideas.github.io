@@ -126,7 +126,7 @@
   english: 'horsetail plant'
 - letter: テ
   color: pink
-  iconSrc: "../assets/art/tv.svg"
+  iconSrc: "../assets/art/television.svg"
   strokeSrc: "../assets/art/kata-te.svg"
   japanese: 'テレビ'
   romaji: 'terebi'
@@ -139,40 +139,40 @@
   romaji: 'tomato'
   english: 'tomato'
 - letter: ナ # na, ni, nu, ne, no
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: green
+  iconSrc: "../assets/art/knife.svg"
+  strokeSrc: "../assets/art/kata-na.svg"
+  japanese: 'ナイフ'
+  romaji: 'naifu'
+  english: 'knife'
 - letter: ニ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: orange
+  iconSrc: "../assets/art/garlic.svg"
+  strokeSrc: "../assets/art/kata-ni.svg"
+  japanese: 'ニンニク'
+  romaji: 'ninniku'
+  english: 'garlic'
 - letter: ヌ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'  
+  color: purple
+  iconSrc: "../assets/art/noodle.svg"
+  strokeSrc: "../assets/art/kata-nu.svg"
+  japanese: 'ヌードル'
+  romaji: 'nūdoru'
+  english: 'noodle'  
 - letter: ネ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: blue
+  iconSrc: "../assets/art/necktie.svg"
+  strokeSrc: "../assets/art/kata-ne.svg"
+  japanese: 'ネクタイ'
+  romaji: 'nekutai'
+  english: 'necktie'
 - letter: ノ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!' 
+  color: pink
+  iconSrc: "../assets/art/notebook.svg"
+  strokeSrc: "../assets/art/kata-no.svg"
+  japanese: 'ノート'
+  romaji: 'nōto'
+  english: 'notebook' 
 - letter: ハ # ha, hi, fu, he, ho
   color: yellow
   iconSrc: "../assets/art/unknown.svg"

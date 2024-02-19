@@ -28,12 +28,12 @@ cols:
       romaji: 'takushī'
       english: 'taxi'
     - letter: ナ # col 1 - row 5
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'   
+      color: green
+      iconSrc: "../assets/art/knife.svg"
+      strokeSrc: "../assets/art/kata-na.svg"
+      japanese: 'ナイフ'
+      romaji: 'naifu'
+      english: 'knife'   
     - letter: ハ # col 1 - row 6
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -98,12 +98,12 @@ cols:
       romaji: 'chīzu'
       english: 'cheese'
     - letter: ニ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: orange
+      iconSrc: "../assets/art/garlic.svg"
+      strokeSrc: "../assets/art/kata-ni.svg"
+      japanese: 'ニンニク'
+      romaji: 'ninniku'
+      english: 'garlic'
     - letter: ヒ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -156,12 +156,12 @@ cols:
       romaji: 'tsukushi'
       english: 'horsetail plant'
     - letter: ヌ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: purple
+      iconSrc: "../assets/art/noodle.svg"
+      strokeSrc: "../assets/art/kata-nu.svg"
+      japanese: 'ヌードル'
+      romaji: 'nūdoru'
+      english: 'noodle'
     - letter: フ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -220,18 +220,18 @@ cols:
       english: 'sweater'
     - letter: テ
       color: pink
-      iconSrc: "../assets/art/tv.svg"
+      iconSrc: "../assets/art/television.svg"
       strokeSrc: "../assets/art/kata-te.svg"
       japanese: 'テレビ'
       romaji: 'terebi'
       english: 'television'
     - letter: ネ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: blue
+      iconSrc: "../assets/art/necktie.svg"
+      strokeSrc: "../assets/art/kata-ne.svg"
+      japanese: 'ネクタイ'
+      romaji: 'nekutai'
+      english: 'necktie'
     - letter: ヘ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -284,12 +284,12 @@ cols:
       romaji: 'tomato'
       english: 'tomato'
     - letter: ノ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: pink
+      iconSrc: "../assets/art/notebook.svg"
+      strokeSrc: "../assets/art/kata-no.svg"
+      japanese: 'ノート'
+      romaji: 'nōto'
+      english: 'notebook'
     - letter: ホ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"

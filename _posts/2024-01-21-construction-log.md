@@ -13,7 +13,7 @@ After Emillionideas.com was officially launched on January 09, 2024, I created t
 
 ### February 19, 2024
 ***
-- Katakana: added the contents for 5 characters タ(ta), チ(chi), ツ(tsu), テ(te), ト(to).
+- Katakana: added the contents for 10 characters タ(ta), チ(chi), ツ(tsu), テ(te), ト(to), ナ(na), ニ(ni), ヌ(nu), ネ(ne), ノ(no).
 
 ### February 10, 2024
 ***
