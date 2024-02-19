@@ -4,12 +4,16 @@ blog_active: true
 title: 'Construction Log'
 description:  Updates I made to Emillionideas.com
 file_name: 2024/01/21/construction-log.html
-date-2: ' Last Updated on January 28, 2024'
+date-2: ' Last Updated on February 19, 2024'
 excerpt: "Find what's changed in Emillionideas.com here"
 thumbnail: post2_thumbnail.svg
 
 ---
 After Emillionideas.com was officially launched on January 09, 2024, I created this <b>Construction Log</b> on January 21 to keep track of all the worksite progress.
+
+### February 19, 2024
+***
+- Katakana: added the contents for 5 characters タ(ta), チ(chi), ツ(tsu), テ(te), ト(to).
 
 ### February 10, 2024
 ***
