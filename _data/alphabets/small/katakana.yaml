@@ -174,40 +174,40 @@
   romaji: 'nōto'
   english: 'notebook' 
 - letter: ハ # ha, hi, fu, he, ho
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!' 
+  color: purple
+  iconSrc: "../assets/art/hamburger.svg"
+  strokeSrc: "../assets/art/kata-ha.svg"
+  japanese: 'ハンバーガー'
+  romaji: 'hanbāgā'
+  english: 'hamburger' 
 - letter: ヒ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: blue
+  iconSrc: "../assets/art/sunflower.svg"
+  strokeSrc: "../assets/art/kata-hi.svg"
+  japanese: 'ヒマワリ'
+  romaji: 'himawari'
+  english: 'sunflower'
 - letter: フ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: pink
+  iconSrc: "../assets/art/frying-pan.svg"
+  strokeSrc: "../assets/art/kata-fu.svg"
+  japanese: 'フライパン'
+  romaji: 'furaipan'
+  english: 'frying pan'
 - letter: ヘ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: green
+  iconSrc: "../assets/art/helicopter.svg"
+  strokeSrc: "../assets/art/kata-he.svg"
+  japanese: 'ヘリコプター'
+  romaji: 'herikoputā'
+  english: 'helicopter'
 - letter: ホ
-  color: yellow
-  iconSrc: "../assets/art/unknown.svg"
-  strokeSrc: "../assets/art/unknown.svg"
-  japanese: 'カミングスーン'
-  romaji: 'kamingusūn'
-  english: 'Coming soon!'
+  color: orange
+  iconSrc: "../assets/art/honda.svg"
+  strokeSrc: "../assets/art/kata-ho.svg"
+  japanese: 'ホンダ'
+  romaji: 'honda'
+  english: 'Honda'
 - letter: マ # ma, mi, mu, me, mo
   color: yellow
   iconSrc: "../assets/art/unknown.svg"

@@ -35,12 +35,12 @@ cols:
       romaji: 'naifu'
       english: 'knife'   
     - letter: ハ # col 1 - row 6
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!' 
+      color: purple
+      iconSrc: "../assets/art/hamburger.svg"
+      strokeSrc: "../assets/art/kata-ha.svg"
+      japanese: 'ハンバーガー'
+      romaji: 'hanbāgā'
+      english: 'hamburger' 
     - letter: マ # col 1 - row 6
       color: yellow 
       iconSrc: "../assets/art/unknown.svg"
@@ -105,12 +105,12 @@ cols:
       romaji: 'ninniku'
       english: 'garlic'
     - letter: ヒ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: blue
+      iconSrc: "../assets/art/sunflower.svg"
+      strokeSrc: "../assets/art/kata-hi.svg"
+      japanese: 'ヒマワリ'
+      romaji: 'himawari'
+      english: 'sunflower'
     - letter: ミ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -163,12 +163,12 @@ cols:
       romaji: 'nūdoru'
       english: 'noodle'
     - letter: フ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: pink
+      iconSrc: "../assets/art/frying-pan.svg"
+      strokeSrc: "../assets/art/kata-fu.svg"
+      japanese: 'フライパン'
+      romaji: 'furaipan'
+      english: 'frying pan'
     - letter: ム
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -233,12 +233,12 @@ cols:
       romaji: 'nekutai'
       english: 'necktie'
     - letter: ヘ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: green
+      iconSrc: "../assets/art/helicopter.svg"
+      strokeSrc: "../assets/art/kata-he.svg"
+      japanese: 'ヘリコプター'
+      romaji: 'herikoputā'
+      english: 'helicopter'
     - letter: メ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
@@ -291,12 +291,12 @@ cols:
       romaji: 'nōto'
       english: 'notebook'
     - letter: ホ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
-      strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      color: orange
+      iconSrc: "../assets/art/honda.svg"
+      strokeSrc: "../assets/art/kata-ho.svg"
+      japanese: 'ホンダ'
+      romaji: 'honda'
+      english: 'Honda'
     - letter: モ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
