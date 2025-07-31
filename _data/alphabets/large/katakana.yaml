@@ -170,12 +170,12 @@ cols:
       romaji: 'furaipan'
       english: 'frying pan'
     - letter: ム
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
+      color: orange
+      iconSrc: "../assets/art/insect.svg"
       strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      japanese: 'ムシ'
+      romaji: 'mushi'
+      english: 'insect'
     - letter: ユ
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
