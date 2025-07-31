@@ -112,12 +112,12 @@ cols:
       romaji: 'himawari'
       english: 'sunflower'
     - letter: ミ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
+      color: green
+      iconSrc: "../assets/art/milk.svg"
       strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      japanese: 'ミルク'
+      romaji: 'miruku'
+      english: 'milk'
     - disabled: true
     - letter: リ
       color: yellow
