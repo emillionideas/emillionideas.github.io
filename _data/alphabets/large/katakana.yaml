@@ -180,9 +180,9 @@ cols:
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
       strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      japanese: 'ユーフォー'
+      romaji: 'yūfō'
+      english: 'UFO'
     - letter: ル
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
