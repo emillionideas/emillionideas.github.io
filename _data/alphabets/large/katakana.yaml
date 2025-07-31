@@ -240,12 +240,12 @@ cols:
       romaji: 'herikoputā'
       english: 'helicopter'
     - letter: メ
-      color: yellow
-      iconSrc: "../assets/art/unknown.svg"
+      color: purple
+      iconSrc: "../assets/art/medal.svg"
       strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      japanese: 'メダル'
+      romaji: 'medaru'
+      english: 'medal'
     - disabled: true
     - letter: レ
       color: yellow
