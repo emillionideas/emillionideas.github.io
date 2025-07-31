@@ -42,12 +42,12 @@ cols:
       romaji: 'hanbāgā'
       english: 'hamburger' 
     - letter: マ # col 1 - row 6
-      color: yellow 
-      iconSrc: "../assets/art/unknown.svg"
+      color: pink 
+      iconSrc: "../assets/art/tuna.svg"
       strokeSrc: "../assets/art/unknown.svg"
-      japanese: 'カミングスーン'
-      romaji: 'kamingusūn'
-      english: 'Coming soon!'
+      japanese: 'マグロ'
+      romaji: 'maguro'
+      english: 'tuna'
     - letter: ヤ # col 1 - row 7
       color: yellow
       iconSrc: "../assets/art/unknown.svg"
