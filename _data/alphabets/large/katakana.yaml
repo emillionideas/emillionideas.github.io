@@ -298,7 +298,7 @@ cols:
       romaji: 'honda'
       english: 'Honda'
     - letter: モ
-      color: yellow
+      color: blue
       iconSrc: "../assets/art/unknown.svg"
       strokeSrc: "../assets/art/unknown.svg"
       japanese: 'カミングスーン'
