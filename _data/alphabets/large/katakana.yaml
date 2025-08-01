@@ -178,7 +178,7 @@ cols:
       english: 'insect'
     - letter: ユ
       color: yellow
-      iconSrc: "../assets/art/unknown.svg"
+      iconSrc: "../assets/art/ufo.svg"
       strokeSrc: "../assets/art/unknown.svg"
       japanese: 'ユーフォー'
       romaji: 'yūfō'
